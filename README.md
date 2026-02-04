@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an enhanced version of Harvard's CS50's Introduction to Programming with Python course materials (except the data structure and plots), specifically tailored for economics and business studies students. Created by Md. Siddiqur Rahman, M.Sc. in Economics, Jahangirjagur University, these notebooks provide comprehensive Python programming education with economic context, examples, and applications.
+This project is an enhanced version of Harvard's [CS50's Introduction to Programming with Python] (https://cs50.harvard.edu/python/) course materials (except the data structure and plots), specifically tailored for economics and business studies students. Created by Md. Siddiqur Rahman, M.Sc. in Economics, Jahangirjagur University, these notebooks provide comprehensive Python programming education with economic context, examples, and applications.
 
 ## About This Project
 
@@ -208,3 +208,4 @@ This project is an enhanced educational resource based on CS50's Introduction to
 
 
 Happy coding and may your Python skills enhance your economic analysis capabilities!
+
