@@ -84,7 +84,7 @@ This project includes the following notebooks:
     - Trees and graphs
     - Economic data structure applications
 
-12. **Lecture 10: Data Structures**
+12. **Lecture 11: Data Structures**
     - Line Plots, Bar Plots, Scatter Plots
     - Scatter Plots, Histograms, Pie Charts
     - Box Plots, Heatmaps
@@ -205,5 +205,6 @@ For questions, suggestions, or feedback, please contact:
 This project is an enhanced educational resource based on CS50's Introduction to Programming with Python. It is not officially affiliated with Harvard University or CS50, but aims to extend their excellent educational materials to better serve economics and business students.
 
 ---
+
 
 Happy coding and may your Python skills enhance your economic analysis capabilities!
