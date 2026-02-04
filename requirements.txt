@@ -1,0 +1,59 @@
+# CS50's Introduction to Programming with Python - Enhanced Edition for Economics
+# Requirements.txt
+#
+# This file lists all Python packages required to run the enhanced CS50 Python notebooks
+# tailored for economics and business studies students.
+#
+# Core Python Version: 3.7+
+
+# Core data analysis and scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Data visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.3.0
+
+# Economic and financial data
+yfinance>=0.1.63
+pandas-datareader>=0.10.0
+statsmodels>=0.12.0
+
+# Web scraping and API access
+requests>=2.26.0
+beautifulsoup4>=4.9.0
+html5lib>=1.1
+
+# Database interaction
+sqlalchemy>=1.4.0
+sqlite3
+
+# Machine learning (for advanced economic modeling)
+scikit-learn>=1.0.0
+
+# Additional utilities
+tqdm>=4.62.0
+python-dateutil>=2.8.0
+pytz>=2021.1
+
+# Jupyter notebook support
+notebook>=6.4.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Testing framework
+pytest>=6.2.0
+
+# Type checking and development tools
+mypy>=0.910
+black>=21.7b0
+flake8>=3.9.0
+
+# Optional: For running specific economic models
+# Uncomment if you need these specific packages
+# cvxpy>=1.2.0  # For optimization problems
+# networkx>=2.6.0  # For network analysis
+# dash>=2.0.0  # For interactive dashboards
+# streamlit>=1.0.0  # For quick web apps
